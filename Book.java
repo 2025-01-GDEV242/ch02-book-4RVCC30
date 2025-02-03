@@ -23,4 +23,12 @@ class Book
     }
 
     // Add the methods here ...
+    public void printAuthor()
+    {
+        System.out.println(author);
+    }
+    public void printTitle()
+    {
+        System.out.println(title);
+    }
 }
